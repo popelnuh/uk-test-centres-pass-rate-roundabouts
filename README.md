@@ -1,10 +1,12 @@
 # Roundabouts and Practical Driving Test Pass Rate
 
-Is there a relationship between the number of roundabouts and the driving test pass rate?
+Is there a relationship between the number of roundabouts and the practical driving test pass rate?
 
-I have decided to calculate this relationship and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
+I have decided to calculate the number of roundabouts within 30km radius from the test centres and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
 
-In this project I calculate the number of roundabouts within 30km radius form the UK test centres.
+R scripts investigate data for further relationships. This work is in progress.
+
+![Tiree Pass Rate](https://github.com/popelnuh/uk-test-centres-pass-rate-rounabouts/blob/master/Images/pass_rate_tiree.PNG)
 
 
 ### Datasets:
