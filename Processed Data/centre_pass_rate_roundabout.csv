@@ -1,255 +1,259 @@
-centre,rate,number_rou
-Aberdeen North,55.5,449
-Aberdeen South (Cove),51.7,430
-Abergavenny,57.3,1099
-Aberystwyth (Park Avenue),49.7,26
-Airdrie,45.5,2981
-Alness,58.2,222
-Alnwick,64.3,141
-Arbroath,64.7,322
-Ashford (Kent),45.1,702
-Ashford (London Middlesex),49,3386
-Atherton (Manchester),50.1,3088
-Aylesbury,48.4,1987
-Bala,52.6,19
-Banbury,52.3,759
-Banff,62.9,51
-Barking (Tanner Street),34.5,3435
-Barnet (London),36.7,3633
-Barnsley,49.5,2168
-Barnstaple,53.9,129
-Barrow In Furness,54.1,192
-Barry,58,1635
-Basingstoke,50.5,1676
-Belvedere (London),33.2,3185
-Berwick-On-Tweed,67.2,38
-Beverley LGV,53.3,703
-Birmingham (Cocks Moors Woods),39.8,4042
-Birmingham (Kings Heath),39.1,3902
-Birmingham (Kingstanding),37.6,3820
-Birmingham (Shirley),44.5,3959
-Birmingham (South Yardley),32.8,4130
-Birmingham (Sutton Coldfield),37.6,3952
-Bishopbriggs,48.2,2718
-Bishops Stortford,43.7,1807
-Blackpool,45.7,650
-Bletchley,44.6,2568
-Blyth,57.2,1943
-Bodmin,39.3,237
-Bolton (Manchester),50.7,2764
-Borehamwood (London),50.8,3584
-Boston,51,219
-Bournemouth,54.3,591
-Bradford (Thornbury),40.5,1483
-Brecon,61.1,464
-Bredbury (Manchester),45,1432
-Brentwood (London),55.1,3102
-Bridgend,51.2,1564
-Bridlington,58.3,237
-Bristol (Avonmouth),51.9,1602
-Bristol (Brislington),43.3,1356
-Bristol (Kingswood),49.8,1280
-Buckie,57.1,111
-Burton on Trent,51.4,1893
-Bury (Manchester),34.6,1968
-Bury St Edmunds,42.2,435
-Buxton,46.9,635
-Callander,44.1,271
-Cambridge (Brookmount Court),49.9,788
-Canterbury,46.8,844
-Cardiff (Llanishen),50.5,2175
-Cardigan,56.7,44
-Carmarthen,54.6,333
-Carshalton (Tolworth),47.4,3036
-Castle Douglas,48.3,94
-Chadderton,42.6,1672
-Cheetham Hill (Manchester),36.9,1918
-Chelmsford (Hanbury Road),46.1,1851
-Cheltenham,43.6,693
-Chertsey (London),51,3177
-Chesterfield,47.3,1362
-Chichester,52,847
-Chingford (London),37.8,3589
-Chippenham,45.9,1281
-Chorley,57.5,2356
-Colchester,39.8,777
-Crawley,39.8,1026
-Crewe,49.4,1103
-Crieff,72.4,304
-Croydon (London),39.7,3390
-Cumnock,58.2,388
-Derby (Alvaston),46.3,1794
-Doncaster,43.7,1712
-Dudley,44.9,3407
-Dumbarton,50.3,1150
-Dumfries,46.1,160
-Dunfermline,47.6,1868
-Dunoon,58.2,308
-Duns,68.5,78
-East Kilbride,41.8,2472
-Eastbourne,50.1,308
-Edinburgh (Currie),50.1,1414
-Edinburgh (Musselburgh),42.9,1321
-Elgin,48.4,140
-Elswick,43.1,2446
-Enfield (Brancroft Way),34.2,3415
-Enfield (Innova Business Park),38.7,3297
-Erith (London),33,3196
-Folkestone,44.2,508
-Forfar,65.2,326
-Fort William,58.6,25
-Fraserburgh,60.3,74
-Girvan,58.7,64
-Glasgow (Anniesland),38.2,2416
-Glasgow (Baillieston),40.2,2684
-Glasgow (Shieldhall),37,2471
-Golspie,61.8,19
-Goodmayes (London),38,3365
-Grangemouth,54.3,2208
-Grantham (Somerby),49.4,328
-Grantown-On-Spey,52.7,13
-Greenford (Whitton Ave East),38.2,3655
-Greenock,43.8,699
-Grimsby Coldwater,40.9,659
-Haddington,62.5,419
-Halifax,36,1440
-Hamilton,46.7,2407
-Hartlepool,54.2,1798
-Hawick,61.5,77
-Hayes (London),40.6,3344
-Heckmondwike,38.2,1623
-Hendon (London),41.4,3796
-Hereford,56.4,196
-Hexham,58.3,363
-Heysham,49.2,472
-High Wycombe,50.8,2088
-Hinckley,42.5,2676
-Hither Green (London),48.7,3394
-Hornchurch (London),46.7,3228
-Horsforth,44.9,1514
-Huddersfield,46.8,1594
-Huntly,60.2,71
-Hyde (Manchester),55.4,1347
-Inveraray,84.1,13
-Inverness (Seafield Road),42.5,211
-Isle of Mull,80.8,1
-Isle of Skye (Broadford),51.5,10
-Isle of Skye (Portree),65.3,5
-Isleworth (Fleming Way),43.7,3483
-Kelso,55.6,91
-Kendal (Oxenholme Road),63,158
-Kingussie,55.6,3
-Knaresborough,48.9,1102
-Kyle of Lochalsh,50,5
-Lairg,50,9
-Lampeter,56.1,20
-Lanark,55.3,1266
-Launceston,50.2,270
-Leicester (Cannock Street),35,1279
-Leighton Buzzard (Stanbridge Road),46.8,2528
-Letchworth,47.2,2077
-Lichfield,50.3,3323
-Livingston,44.2,1944
-Llandrindod Wells,73.2,72
-Llanelli,49.7,771
-Lochgilphead,77.2,3
-Loughborough,49.2,2015
-Loughton (London),45,3522
-Louth,56.4,204
-Lowestoft(Mobbs Way),47,350
-Ludlow,51.4,110
-Luton,34.9,3003
-Maidstone,44.4,1524
-Mallaig,86.4,2
-Malton,66.3,331
-Melton Mowbray,56,1160
-Middlesbrough,49.3,1352
-Mill Hill (London),43.1,3659
-Mitcham (London),41.3,3420
-Monmouth,53.5,604
-Morden (London),47.9,3266
-Nelson,50.2,625
-Newbury (Hambridge Lane),51.4,1136
-Newton Abbot,49.5,338
-Newton Stewart,63.7,6
-Newtown,58.3,67
-Norris Green (Liverpool),42,2510
-Northallerton,61.8,868
-Northampton,48.7,2317
-Northwich,48.5,2437
-Nuneaton,50.2,3250
-Oban,60.6,11
-Oswestry,47.3,489
-Oxford (Cowley),48.1,665
-Paisley,46.3,2224
-Peebles,60.6,245
-Pembroke Dock,52.2,135
-Penzance,49.6,150
-Perth (Arran Road),53.5,269
-Peterborough,45.1,883
-Peterhead,62.6,84
-Pinner (London),41.8,3305
-Pitlochry,77.8,6
-Pontefract,40.4,2017
-Poole,57.4,581
-Portsmouth,44.5,1292
-Preston,55.2,1350
-Pwllheli,58.3,61
-Reading,46.4,2060
-Redhill Aerodrome,45.9,1598
-Rhyl,45.4,372
-Rochdale (Manchester),34.2,1537
-Rothesay,54.6,157
-Rugby,46,1822
-Sale (Manchester),50.1,2349
-Salisbury,56.9,636
-Scarborough,52.3,219
-Sevenoaks,50.8,2319
-Sheffield (Handsworth),43.4,1721
-Sheffield (Middlewood Road),42.4,1540
-Sidcup (London),46.1,3045
-Skegness,55.7,53
-Skipton,49.7,480
-Slough (London),43.7,3326
-South Shields,47.2,2358
-Southall (London),40.1,3602
-Southampton (Forest Hills),47.6,1222
-Southampton (Maybush),45.8,1131
-Southend-on-Sea,45.6,1638
-St Albans,43.8,2930
-Stafford,50.8,2158
-Steeton,43.1,858
-Stevenage,48.8,2388
-Stirling,42.6,1204
-Stranraer,60.3,16
-Sunderland,42.9,2406
-Telford,41.1,1205
-Thurso,61.6,3
-Tilbury,42.8,2973
-Tolworth (London),50.9,3036
-Tottenham,37.5,3789
-Trowbridge,50.1,759
-Tunbridge Wells,47.7,714
-Upton,47,2061
-Uxbridge (London),48.6,3174
-Wallasey,42.6,2318
-Wanstead (London),35.7,3759
-Warrington,53.4,3157
-Warwick (Wedgenock House),47.2,2608
-Watford,46.4,3280
-Wednesbury,37.4,3583
-West Didsbury (Manchester),44.6,2041
-West Wickham (London),47.1,3020
-Westbury,50.4,593
-Weston-super-Mare,55.5,1367
-Whitby,63.4,133
-Whitchurch,47.7,781
-Wick,60.1,1
-Winchester,50,1322
-Wood Green (London),39.6,3856
-Worcester,48.2,1110
-Workington,50.6,132
-Worksop,55.4,1650
-Yeading (London),39.5,3517
-Yeovil,61.9,294
-York,54,573
+centre,rate,number_roundabouts
+Aberdeen North,"55.5434486515936","449"
+Aberdeen South (Cove),"51.662707838479797","430"
+Abergavenny,"57.342849300027403","1099"
+Aberystwyth (Park Avenue),"49.728555917481003","26"
+Airdrie,"45.4717491213842","2981"
+Alness,"58.158508158508198","222"
+Alnwick,"64.276048714479003","141"
+Arbroath,"64.7151898734177","322"
+Ashford (Kent),"45.058139534883701","702"
+Ashford (London Middlesex),"49.018067556952097","3386"
+Atherton (Manchester),"50.059435364041597","3088"
+Aylesbury,"48.415452232246103","1987"
+Bala,"52.6392961876833","19"
+Ballater,"70.454545454545496","0"
+Banbury,"52.287712287712303","759"
+Banff,"62.903225806451601","51"
+Barking (Tanner Street),"34.463447858332103","3435"
+Barnet (London),"36.706547025589899","3633"
+Barnsley,"49.480086325289399","2168"
+Barnstaple,"53.946388682055101","129"
+Barrow In Furness,"54.133754607688303","192"
+Barry,"58.010563380281702","1635"
+Basingstoke,"50.526551646874303","1676"
+Belvedere (London),"33.225748610364001","3185"
+Berwick-On-Tweed,"67.216494845360799","38"
+Beverley LGV,"53.271028037383203","703"
+Birmingham (Cocks Moors Woods),"39.8108602806589","4042"
+Birmingham (Kings Heath),"39.108236895847497","3902"
+Birmingham (Kingstanding),"37.629937629937601","3820"
+Birmingham (Shirley),"44.501449921927303","3959"
+Birmingham (South Yardley),"32.768549280177197","4130"
+Birmingham (Sutton Coldfield),"37.555932726431102","3952"
+Bishopbriggs,"48.224750086177202","2718"
+Bishops Stortford,"43.742478941034904","1807"
+Blackpool,"45.6788321167883","650"
+Bletchley,"44.6399120395822","2568"
+Blyth,"57.170099160945803","1943"
+Bodmin,"39.275063087864197","237"
+Bolton (Manchester),"50.6748979805378","2764"
+Borehamwood (London),"50.768600122975997","3584"
+Boston,"51.040799333888401","219"
+Bournemouth,"54.344919786096298","591"
+Bradford (Thornbury),"40.5286343612335","1483"
+Brecon,"61.053540587219302","464"
+Bredbury (Manchester),"44.975584682600903","1432"
+Brentwood (London),"55.052672649239199","3102"
+Bridgend,"51.233842538190402","1564"
+Bridlington,"58.328496807893202","237"
+Bristol (Avonmouth),"51.942417669098802","1602"
+Bristol (Brislington),"43.323308270676698","1356"
+Bristol (Kingswood),"49.763808139534902","1280"
+Buckie,"57.094594594594597","111"
+Burton on Trent,"51.419558359621398","1893"
+Bury (Manchester),"34.616650213886103","1968"
+Bury St Edmunds,"42.2202643171806","435"
+Buxton,"46.879927911691802","635"
+Callander,"44.139650872818002","271"
+Cambridge (Brookmount Court),"49.918147801683801","788"
+Campbeltown,"71.028037383177605","0"
+Canterbury,"46.814580031695698","844"
+Cardiff (Llanishen),"50.491898148148103","2175"
+Cardigan,"56.727976766698902","44"
+Carmarthen,"54.583046175051699","333"
+Castle Douglas,"48.266666666666701","94"
+Chadderton,"42.640668523676901","1672"
+Cheetham Hill (Manchester),"36.854264855373799","1918"
+Chelmsford (Hanbury Road),"46.078735275883403","1851"
+Cheltenham,"43.582715253144201","693"
+Chertsey (London),"50.9584193453259","3177"
+Chesterfield,"47.320061255742701","1362"
+Chichester,"52.045670789724099","847"
+Chingford (London),"37.760240511086103","3589"
+Chippenham,"45.937263794406697","1281"
+Chorley,"57.478288838854901","2356"
+Colchester,"39.816232771822399","777"
+Crawley,"39.762981443942003","1026"
+Crewe,"49.350649350649299","1103"
+Crieff,"72.392638036809799","304"
+Croydon (London),"39.6692983762848","3390"
+Cumnock,"58.181818181818201","388"
+Derby (Alvaston),"46.3487497233901","1794"
+Doncaster,"43.671967407018002","1712"
+Dudley,"44.930303608936399","3407"
+Dumbarton,"50.267062314540098","1150"
+Dumfries,"46.139705882352899","160"
+Dunfermline,"47.631578947368403","1868"
+Dunoon,"58.158995815899601","308"
+Duns,"68.468468468468501","78"
+East Kilbride,"41.775147928994102","2472"
+Eastbourne,"50.1247401247401","308"
+Edinburgh (Currie),"50.070389488503103","1414"
+Edinburgh (Musselburgh),"42.931435609689302","1321"
+Elgin,"48.403707518022699","140"
+Elswick,"43.095832533128501","2446"
+Enfield (Brancroft Way),"34.210526315789501","3415"
+Enfield (Innova Business Park),"38.724020266777003","3297"
+Erith (London),"33.023106546854898","3196"
+Folkestone,"44.246611745947398","508"
+Forfar,"65.210084033613398","326"
+Fort William,"58.620689655172399","25"
+Fraserburgh,"60.2510460251046","74"
+Gairloch,"86.486486486486498","0"
+Girvan,"58.723404255319103","64"
+Glasgow (Anniesland),"38.212190514069803","2416"
+Glasgow (Baillieston),"40.17310849127","2684"
+Glasgow (Shieldhall),"36.951354777372799","2471"
+Golspie,"61.8055555555556","19"
+Goodmayes (London),"37.986290394373697","3365"
+Grangemouth,"54.348437939769198","2208"
+Grantham (Somerby),"49.385008122534202","328"
+Grantown-On-Spey,"52.6666666666667","13"
+Greenford (Whitton Ave East),"38.227146814404399","3655"
+Greenock,"43.830005120327698","699"
+Grimsby Coldwater,"40.852500527537501","659"
+Haddington,"62.5451263537906","419"
+Halifax,"35.9816806053365","1440"
+Hamilton,"46.7167340650876","2407"
+Hartlepool,"54.154609342703601","1798"
+Hawick,"61.470588235294102","77"
+Hayes (London),"40.550300945829697","3344"
+Heckmondwike,"38.179231863442403","1623"
+Hendon (London),"41.376162018592296","3796"
+Hereford,"56.398910823689597","196"
+Hexham,"58.289885297184597","363"
+Heysham,"49.188426252646401","472"
+High Wycombe,"50.819967561722798","2088"
+Hinckley,"42.453120196741502","2676"
+Hither Green (London),"48.732902867458201","3394"
+Hornchurch (London),"46.700862671951498","3228"
+Horsforth,"44.878843412746903","1514"
+Huddersfield,"46.7582336434795","1594"
+Huntly,"60.200668896321098","71"
+Hyde (Manchester),"55.449871465295601","1347"
+Inveraray,"84.057971014492793","13"
+Inverness (Seafield Road),"42.539682539682502","211"
+Islay Island,"75.510204081632693","0"
+Isle of Mull,"80.769230769230802","1"
+Isle of Skye (Broadford),"51.515151515151501","10"
+Isle of Skye (Portree),"65.2777777777778","5"
+Isle of Tiree,"85.714285714285694","0"
+Isleworth (Fleming Way),"43.733762216998599","3483"
+Kelso,"55.5555555555556","91"
+Kendal (Oxenholme Road),"62.969509500662802","158"
+Kingussie,"55.5555555555556","3"
+Knaresborough,"48.940677966101703","1102"
+Kyle of Lochalsh,"50","5"
+Lairg,"50","9"
+Lanark,"55.278766310794801","1266"
+Launceston,"50.152107779226398","270"
+Leicester (Cannock Street),"34.963219385547397","1279"
+Leighton Buzzard (Stanbridge Road),"46.7813051146384","2528"
+Letchworth,"47.184757011346598","2077"
+Lichfield,"50.292854353768099","3323"
+Livingston,"44.219719604688599","1944"
+Llandrindod Wells,"73.187183811129799","72"
+Llanelli,"49.656357388316202","771"
+Lochgilphead,"77.181208053691293","3"
+Loughborough,"49.2233529726835","2015"
+Loughton (London),"44.975675222278099","3522"
+Louth,"56.354916067146299","204"
+Lowestoft(Mobbs Way),"46.9804248229904","350"
+Ludlow,"51.358574610245","110"
+Luton,"34.922227797290503","3003"
+Maidstone,"44.394474783167396","1524"
+Mallaig,"86.363636363636402","2"
+Malton,"66.338797814207695","331"
+Melton Mowbray,"56.0145256468452","1160"
+Middlesbrough,"49.254185692541903","1352"
+Mill Hill (London),"43.139348638547801","3659"
+Mitcham (London),"41.337874917210698","3420"
+Monmouth,"53.466135458167301","604"
+Morden (London),"47.881534569983103","3266"
+Nelson,"50.160650160650199","625"
+Newbury (Hambridge Lane),"51.437895166224799","1136"
+Newton Abbot,"49.533407988055203","338"
+Newton Stewart,"63.684210526315802","6"
+Newtown,"58.326817826426897","67"
+Norris Green (Liverpool),"41.988815949428599","2510"
+Northallerton,"61.840539468464897","868"
+Northampton,"48.717379233758997","2317"
+Northwich,"48.469833867677103","2437"
+Nuneaton,"50.222882615156003","3250"
+Oban,"60.586319218241002","11"
+Oswestry,"47.301798800799503","489"
+Oxford (Cowley),"48.1154532830788","665"
+Paisley,"46.274373259052901","2224"
+Peebles,"60.594795539033498","245"
+Pembroke Dock,"52.203105329416701","135"
+Penzance,"49.604743083004003","150"
+Perth (Arran Road),"53.4584980237154","269"
+Peterborough,"45.087664695507797","883"
+Peterhead,"62.622309197651703","84"
+Pinner (London),"41.833975723407903","3305"
+Pitlochry,"77.7777777777778","6"
+Pontefract,"40.441438234247101","2017"
+Poole,"57.356446370530897","581"
+Portsmouth,"44.459514444595101","1292"
+Preston,"55.211640211640201","1350"
+Pwllheli,"58.280657395701603","61"
+Reading,"46.430397001192702","2060"
+Redhill Aerodrome,"45.891378962245099","1598"
+Rhyl,"45.351294241943997","372"
+Rochdale (Manchester),"34.233607127940999","1537"
+Rothesay,"54.629629629629598","157"
+Rugby,"46.004206098843298","1822"
+Sale (Manchester),"50.050375013993097","2349"
+Salisbury,"56.882591093117398","636"
+Scarborough,"52.300613496932499","219"
+Sevenoaks,"50.802242412526603","2319"
+Sheffield (Handsworth),"43.429048016204","1721"
+Sheffield (Middlewood Road),"42.387103897537799","1540"
+Sidcup (London),"46.126760563380302","3045"
+Skegness,"55.731225296442702","53"
+Skipton,"49.672951135051903","480"
+Slough (London),"43.712686567164198","3326"
+South Shields,"47.233631311911097","2358"
+Southall (London),"40.1422428051604","3602"
+Southampton (Forest Hills),"47.605140186915897","1222"
+Southampton (Maybush),"45.812200137080197","1131"
+Southend-on-Sea,"45.6410256410256","1638"
+St Albans,"43.790236051502099","2930"
+Stafford,"50.831353919239902","2158"
+Steeton,"43.067563240473902","858"
+Stevenage,"48.829500725088003","2388"
+Stirling,"42.574541284403701","1204"
+Stranraer,"60.344827586206897","16"
+Sunderland,"42.873230373230399","2406"
+Telford,"41.122625215889499","1205"
+Thurso,"61.576354679803003","3"
+Tilbury,"42.839374555792503","2973"
+Tolworth (London),"50.8682976296109","3036"
+Tottenham,"37.5391498881432","3789"
+Trowbridge,"50.078125","759"
+Tunbridge Wells,"47.721179624664899","714"
+Ullapool,"75","0"
+Upton,"47.018382902406202","2061"
+Uxbridge (London),"48.607386011966199","3174"
+Wallasey,"42.645502645502603","2318"
+Wanstead (London),"35.711516091508301","3759"
+Warrington,"53.426676492262303","3157"
+Warwick (Wedgenock House),"47.196671046868197","2608"
+Watford,"46.401861392720598","3280"
+Wednesbury,"37.374317724791702","3583"
+West Didsbury (Manchester),"44.622929845760197","2041"
+West Wickham (London),"47.059346916985497","3020"
+Westbury,"50.439238653001503","593"
+Weston-super-Mare,"55.500261917234198","1367"
+Whitby,"63.434343434343397","133"
+Whitchurch,"47.671232876712303","781"
+Wick,"60.122699386503101","1"
+Winchester,"50.014590020425999","1322"
+Wood Green (London),"39.565324771548497","3856"
+Worcester,"48.214515921103498","1110"
+Workington,"50.563022157646202","132"
+Worksop,"55.3712871287129","1650"
+Yeading (London),"39.5161290322581","3517"
+Yeovil,"61.888463861485803","294"
+York,"53.990102072378598","573"

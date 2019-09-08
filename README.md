@@ -4,6 +4,7 @@ Is there a relationship between the number of roundabouts and the driving test p
 
 I have decided to calculate this relationship and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
 
+In this project I calculate the number of roundabouts within 30km radius form the UK test centres.
 
 
 ### Datasets:
