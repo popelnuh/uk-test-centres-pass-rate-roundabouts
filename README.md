@@ -4,6 +4,7 @@ Is there a relationship between the number of roundabouts and the driving test p
 
 I have decided to calculate this relationship and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
 
+![Tiree Pass Rate](https://github.com/popelnuh/uk-test-centres-pass-rate-rounabouts/blob/master/Images/pass_rate_tiree.PNG)
 
 
 ### Datasets:
