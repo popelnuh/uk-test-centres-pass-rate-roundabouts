@@ -1,8 +1,8 @@
 # Roundabouts and Practical Driving Test Pass Rate
 
-Is there a relationship between the number of roundabouts and the practical driving test pass rate?
+Is there a relationship between the number of roundabouts and the practical driving test pass rate in the UK?
 
-I have decided to calculate the number of roundabouts within 30km radius from the test centres and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
+I have decided to calculate the number of roundabouts within a 30km radius of each test centre and visualise it on a [map](http://www.popelnuh.com/roundabouts.html). 
 
 R scripts investigate data for further relationships. This work is in progress.
 
@@ -10,12 +10,12 @@ R scripts investigate data for further relationships. This work is in progress.
 
 
 ### Datasets:
-* Car driving test data by test centres (Car pass rates by gender, month and test centre)
-[source](https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre)
-* Driving test centres
-[source](https://data.gov.uk/dataset/fe19beff-5716-4ca9-be58-027e56856b48/driving-test-centres)
+* "Car driving test data by test centres" (Car pass rates by gender, month and test centre)
+[data.gov.uk](https://www.gov.uk/government/statistical-data-sets/car-driving-test-data-by-test-centre)
+* "Driving test centres"
+[data.gov.uk](https://data.gov.uk/dataset/fe19beff-5716-4ca9-be58-027e56856b48/driving-test-centres)
 * Ordnance Survey OS Open Roads
-[source](https://www.ordnancesurvey.co.uk/opendatadownload/products.html)
+[Ordnance Survey](https://www.ordnancesurvey.co.uk/opendatadownload/products.html)
 
 
 ### Tools and Method:
@@ -27,6 +27,7 @@ R scripts investigate data for further relationships. This work is in progress.
 * (R) Investigate why some test centres were not joined.
 * (R) Interpret statistics.
 * (PostGIS) Use different distance cutoffs.
+* (PostGIS) Investigate relationships with other road features.
 
 
 
